@@ -18,6 +18,7 @@
         <item
             android:id="@+id/action_menu_support_developer"
             android:checked="false"
+            android:visible="false"
             android:title="Support Developer" />
 
         <item
